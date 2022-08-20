@@ -1,3 +1,3 @@
-3 Demo
+# Demo
 
 Just getting to understand the basics of github
